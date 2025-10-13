@@ -1,0 +1,8 @@
+{
+  "project_name": "iblg_matplotlib_tools",
+  "github_username_or_orgname": "iblg",
+  "github_repo_name": "iblg_matplotlib_tools",
+  "conda_pypi_package_dist_name": "iblg_matplotlib_tools",
+  "package_dir_name": "iblg_matplotlib_tools",
+  "contributors": "Ian Billinge"
+}
