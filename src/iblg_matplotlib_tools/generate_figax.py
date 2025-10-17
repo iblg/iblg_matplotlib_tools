@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
 
-def generate_figax(figsize: tuple[float] = (5.0, 4.0)):
+def generate_figax(figsize: tuple[float, float] = (5.0, 4.0)):
     """Generates a figure, axis, and gridspec.
 
     figsize: tuple[float]
